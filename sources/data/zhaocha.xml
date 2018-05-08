@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<note>
+<zhaocha>
+	<zhaocha limg="./imgs/dailypit/zc1.jpg" rimg="./imgs/dailypit/zc11.jpg" first="340,420,70,150,385,120" second="528,628,538,638,580,600" third="177,257,473,553,240,520" forth="52,92,460,500,110,480" five="720,800,950,1030,750,980"/>
+	<zhaocha limg="./imgs/dailypit/zc2.jpg" rimg="./imgs/dailypit/zc22.jpg" first="340,420,70,150,385,120" second="528,628,538,638,580,600" third="177,257,473,553,240,520" forth="52,92,460,500,110,480" five="720,800,950,1030,750,980"/>
+</zhaocha>  
+</note>

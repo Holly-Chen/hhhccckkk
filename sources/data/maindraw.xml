@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<note>
+<Europe>
+	<Europe painting_name="星夜" painting_img="./imgs/dailypit/eur1.jpg"/>
+	<Europe painting_name="蜻蜓" painting_img="./imgs/dailypit/eur2.jpg"/>
+	<Europe painting_name="3" painting_img="./imgs/dailypit/eur3.jpg"/>
+	<Europe painting_name="4" painting_img="./imgs/dailypit/eur4.jpg"/>
+	<Europe painting_name="5" painting_img="./imgs/dailypit/eur5.jpg"/>
+	<Europe painting_name="6" painting_img="./imgs/dailypit/eur6.jpg"/>
+</Europe>   
+<Asia>
+	<Asia painting_name="3" painting_img="./imgs/dailypit/eur3.jpg"/>
+	<Asia painting_name="4" painting_img="./imgs/dailypit/eur4.jpg"/>
+	<Asia painting_name="5" painting_img="./imgs/dailypit/eur5.jpg"/>	
+	<Asia painting_name="星夜" painting_img="./imgs/dailypit/eur1.jpg"/>
+	<Asia painting_name="蜻蜓" painting_img="./imgs/dailypit/eur2.jpg"/>
+	<Asia painting_name="6" painting_img="./imgs/dailypit/eur6.jpg"/>
+</Asia>
+<Africa>
+	<Africa painting_name="蜻蜓" painting_img="./imgs/dailypit/eur2.jpg"/>
+	<Africa painting_name="3" painting_img="./imgs/dailypit/eur3.jpg"/>
+	<Africa painting_name="4" painting_img="./imgs/dailypit/eur4.jpg"/>
+	<Africa painting_name="星夜" painting_img="./imgs/dailypit/eur1.jpg"/>
+	<Africa painting_name="5" painting_img="./imgs/dailypit/eur5.jpg"/>
+	<Africa painting_name="6" painting_img="./imgs/dailypit/eur6.jpg"/>
+</Africa> 
+<America>
+	<America painting_name="3" painting_img="./imgs/dailypit/eur3.jpg"/>
+	<America painting_name="4" painting_img="./imgs/dailypit/eur4.jpg"/>
+	<America painting_name="5" painting_img="./imgs/dailypit/eur5.jpg"/>
+	<America painting_name="6" painting_img="./imgs/dailypit/eur6.jpg"/>	
+	<America painting_name="星夜" painting_img="./imgs/dailypit/eur1.jpg"/>
+	<America painting_name="蜻蜓" painting_img="./imgs/dailypit/eur2.jpg"/>
+</America> 
+<Anzac>
+	<Anzac painting_name="3" painting_img="./imgs/dailypit/eur3.jpg"/>
+	<Anzac painting_name="4" painting_img="./imgs/dailypit/eur4.jpg"/>
+	<Anzac painting_name="星夜" painting_img="./imgs/dailypit/eur1.jpg"/>
+	<Anzac painting_name="5" painting_img="./imgs/dailypit/eur5.jpg"/>
+	<Anzac painting_name="6" painting_img="./imgs/dailypit/eur6.jpg"/>		
+	<Anzac painting_name="蜻蜓" painting_img="./imgs/dailypit/eur2.jpg"/>
+</Anzac> 
+<Pacific>
+	<Pacific painting_name="蜻蜓" painting_img="./imgs/dailypit/eur2.jpg"/>
+	<Pacific painting_name="3" painting_img="./imgs/dailypit/eur3.jpg"/>
+	<Pacific painting_name="4" painting_img="./imgs/dailypit/eur4.jpg"/>
+	<Pacific painting_name="5" painting_img="./imgs/dailypit/eur5.jpg"/>
+	<Pacific painting_name="6" painting_img="./imgs/dailypit/eur6.jpg"/>	
+	<Pacific painting_name="星夜" painting_img="./imgs/dailypit/eur1.jpg"/>
+	
+</Pacific> 
+</note>

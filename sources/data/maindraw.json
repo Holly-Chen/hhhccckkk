@@ -1,0 +1,183 @@
+{
+    "maindraw": [
+    {
+        "painting_name": "星夜",
+        "painting_img": "./imgs/dailypit/eur1.jpg",
+        "area": "Europe"
+    },
+    {
+        "painting_name": "蜻蜓",
+        "painting_img": "./imgs/dailypit/eur2.jpg",
+        "area": "Europe"
+    },
+    {
+        "painting_name": "3",
+        "painting_img": "./imgs/dailypit/eur3.jpg",
+        "area": "Europe"
+    },
+    {
+        "painting_name": "4",
+        "painting_img": "./imgs/dailypit/eur4.jpg",
+        "area": "Europe"
+    },
+    {
+        "painting_name": "5",
+        "painting_img": "./imgs/dailypit/eur4.jpg",
+        "area": "Europe"
+    },
+    {
+        "painting_name": "6",
+        "painting_img": "./imgs/dailypit/eur4.jpg",
+        "area": "Europe"
+    },
+    {
+        "painting_name": "星夜",
+        "painting_img": "./imgs/dailypit/eur1.jpg",
+        "area": "Asia"
+    },
+    {
+        "painting_name": "蜻蜓",
+        "painting_img": "./imgs/dailypit/eur2.jpg",
+        "area": "Asia"
+    },
+    {
+        "painting_name": "3",
+        "painting_img": "./imgs/dailypit/eur3.jpg",
+        "area": "Asia"
+    },
+    {
+        "painting_name": "4",
+        "painting_img": "./imgs/dailypit/eur4.jpg",
+        "area": "Asia"
+    },
+    {
+        "painting_name": "5",
+        "painting_img": "./imgs/dailypit/eur4.jpg",
+        "area": "Asia"
+    },
+    {
+        "painting_name": "6",
+        "painting_img": "./imgs/dailypit/eur4.jpg",
+        "area": "Asia"
+    },
+    {
+        "painting_name": "星夜",
+        "painting_img": "./imgs/dailypit/eur1.jpg",
+        "area": "Africa"
+    },
+    {
+        "painting_name": "蜻蜓",
+        "painting_img": "./imgs/dailypit/eur2.jpg",
+        "area": "Africa"
+    },
+    {
+        "painting_name": "3",
+        "painting_img": "./imgs/dailypit/eur3.jpg",
+        "area": "Africa"
+    },
+    {
+        "painting_name": "4",
+        "painting_img": "./imgs/dailypit/eur4.jpg",
+        "area": "Africa"
+    },
+    {
+        "painting_name": "5",
+        "painting_img": "./imgs/dailypit/eur4.jpg",
+        "area": "Africa"
+    },
+    {
+        "painting_name": "6",
+        "painting_img": "./imgs/dailypit/eur4.jpg",
+        "area": "Africa"
+    },
+    {
+        "painting_name": "星夜",
+        "painting_img": "./imgs/dailypit/eur1.jpg",
+        "area": "America"
+    },
+    {
+        "painting_name": "蜻蜓",
+        "painting_img": "./imgs/dailypit/eur2.jpg",
+        "area": "America"
+    },
+    {
+        "painting_name": "3",
+        "painting_img": "./imgs/dailypit/eur3.jpg",
+        "area": "America"
+    },
+    {
+        "painting_name": "4",
+        "painting_img": "./imgs/dailypit/eur4.jpg",
+        "area": "America"
+    },
+    {
+        "painting_name": "5",
+        "painting_img": "./imgs/dailypit/eur4.jpg",
+        "area": "America"
+    },
+    {
+        "painting_name": "6",
+        "painting_img": "./imgs/dailypit/eur4.jpg",
+        "area": "America"
+    },
+    {
+        "painting_name": "星夜",
+        "painting_img": "./imgs/dailypit/eur1.jpg",
+        "area": "Anzac"
+    },
+    {
+        "painting_name": "蜻蜓",
+        "painting_img": "./imgs/dailypit/eur2.jpg",
+        "area": "Anzac"
+    },
+    {
+        "painting_name": "3",
+        "painting_img": "./imgs/dailypit/eur3.jpg",
+        "area": "Anzac"
+    },
+    {
+        "painting_name": "4",
+        "painting_img": "./imgs/dailypit/eur4.jpg",
+        "area": "Anzac"
+    },
+    {
+        "painting_name": "5",
+        "painting_img": "./imgs/dailypit/eur4.jpg",
+        "area": "Anzac"
+    },
+    {
+        "painting_name": "6",
+        "painting_img": "./imgs/dailypit/eur4.jpg",
+        "area": "Anzac"
+    },
+    {
+        "painting_name": "星夜",
+        "painting_img": "./imgs/dailypit/eur1.jpg",
+        "area": "Pacific"
+    },
+    {
+        "painting_name": "蜻蜓",
+        "painting_img": "./imgs/dailypit/eur2.jpg",
+        "area": "Pacific"
+    },
+    {
+        "painting_name": "3",
+        "painting_img": "./imgs/dailypit/eur3.jpg",
+        "area": "Pacific"
+    },
+    {
+        "painting_name": "4",
+        "painting_img": "./imgs/dailypit/eur4.jpg",
+        "area": "Pacific"
+    },
+    {
+        "painting_name": "5",
+        "painting_img": "./imgs/dailypit/eur4.jpg",
+        "area": "Pacific"
+    },
+    {
+        "painting_name": "6",
+        "painting_img": "./imgs/dailypit/eur4.jpg",
+        "area": "Pacific"
+    }]
+}
